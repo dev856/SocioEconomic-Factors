@@ -26,3 +26,4 @@
 ### Project Goals
 - Highlight the impact of socioeconomic factors on public health outcomes.
 - Provide an interactive tool for researchers, policymakers, or students to analyze trends.
+### View the live dashboard : https://public.tableau.com/views/SocioEconomicFactorsaffectingLifeExpectancy/Economic?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
