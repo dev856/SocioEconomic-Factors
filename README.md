@@ -20,8 +20,7 @@
 ### How to Use This Dashboard
 * Interact with visualizations : Filter data by region, time period, or specific indicators.
 * Explore correlations : Use scatter plots and trend lines to identify relationships between variables (e.g., GDP vs. life expectancy).
-* Download raw data : [Link to dataset] (if available).
-* Note : This dashboard requires JavaScript to function. Ensure it is enabled in your browser [[Webpage]]. 
+* Download raw data 
 
 ### Project Goals
 - Highlight the impact of socioeconomic factors on public health outcomes.
