@@ -1,8 +1,8 @@
 # SocioEconomic-Factors
 
-Socioeconomic Factors Affecting Life Expectancy Dashboard
-Overview
-This Tableau Public dashboard explores the relationship between socioeconomic factors and life expectancy, drawing on economic, health, and demographic data. It visualizes how variables like GDP per capita, health expenditure, and unemployment rates influence life expectancy trends across regions or countries 
+## Socioeconomic Factors Affecting Life Expectancy Dashboard
+### Overview
+- This Tableau Public dashboard explores the relationship between socioeconomic factors and life expectancy, drawing on economic, health, and demographic data. It visualizes how variables like GDP per capita, health expenditure, and unemployment rates influence life expectancy trends across regions or countries 
 .
 
 Key Findings
