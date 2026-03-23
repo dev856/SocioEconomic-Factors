@@ -1,0 +1,43 @@
+# Tableau temporary files
+*.twb
+*.twb:R
+*.tde
+*.hyper
+*.tfl
+*.tflx
+.tds
+.tde
+
+# Tableau cache/extracts
+Data/
+Extracts/
+datasources/
+
+# Tableau preferences
+*.pref
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Node/package files (if any)
+node_modules/
+package-lock.json
+package.json
+
+# Python files (if any)
+__pycache__/
+*.pyc
+venv/
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
